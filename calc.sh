@@ -13,5 +13,5 @@ function sub() {
 }
 
 function div() {
-    echo $(($1 * $2))
+    echo $(($1 / $2))
 }

@@ -25,5 +25,5 @@ def test_sub():
     assert result == -1
 
 def test_div():
-    result = run_shell_test(script_path, 'sub', 2, 2)
+    result = run_shell_test(script_path, 'div', 2, 2)
     assert result == 1

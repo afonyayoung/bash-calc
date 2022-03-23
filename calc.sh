@@ -1,21 +1,17 @@
 #!/bin/bash
 
 function add() {
-# Write your code here
-
+    echo $(($1 + $2))
 }
 
 function mul() {
-# Write your code here
-
+    echo $(($1 * $2))
 }
 
 function sub() {
-# Write your code here
-
+    echo $(($1 - $2))
 }
 
 function div() {
-# Write your code here
-
+    echo $(($1 / $2))
 }

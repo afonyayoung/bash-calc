@@ -4,3 +4,4 @@ Write functions in `calc.sh` file where:
 - mul() will multiply 2 numbers
 - sub() will subtract 2 number from 1 number
 - dev() will devide 2 numbers
+Add something
